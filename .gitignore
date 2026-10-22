@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Vite
+*.local
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Screen recordings / large media files (not website assets)
+*.mp4
+*.mov
+*.avi
